@@ -1,5 +1,8 @@
 # 🎬 Simple Movie Recommendation AI  
-A lightweight **content-based movie recommender system** built using Python, Pandas, and TF-IDF vectorization.  
+A lightweight **content-based movie recommender system** built using Python, Pandas, and TF-IDF vectorization.
+
+*******This project is a **Streamlit web app**, so you must run it using the Streamlit command.*******
+
 The AI recommends movies based on **genres, summary, cast, and director**, and also displays the **IMDb rating**.
 
 This project uses natural language processing (NLP) and cosine similarity to match user queries like:
